@@ -1,10 +1,3 @@
-Automated-Model-Selection/
-│── app/
-│   ├── model_training.py      # Trains and saves the best model
-│   ├── model_api.py           # Flask API for predictions
-│   ├── streamlit_app.py       # Web UI using Streamlit
-│── requirements.txt           # Dependencies
-│── README.md                  # Project documentation
 
 Step-1 
 >>git clone https://github.com/yourusername/Automated-Model-Selection.git
